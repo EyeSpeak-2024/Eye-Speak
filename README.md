@@ -1,4 +1,4 @@
-# Eye-Speak
+# EyeSpeak
 THIS IS A WORK IN PROGRESS!! 
 ANY HELP IS WELCOME!!!
 EyeSpeak is an app fo the paralytic, people paralyzed from the shoulders down, allowing one to use their eyes and voice to control a computer. With EyeSpeak one can write up a document, go on the internet, shope online, and even play video games hands free.
